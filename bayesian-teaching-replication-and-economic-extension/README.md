@@ -1,5 +1,9 @@
 # Bayesian teaching: replication and economic extension (Spike 2)
 
+> **Moved.** This experiment now lives, with its full history and the write-up, at
+> [OscarAdserballe/delegating-preferences](https://github.com/OscarAdserballe/delegating-preferences).
+> This folder is kept as it was at the move and is no longer updated.
+
 Replicates the off-the-shelf result of Qiu et al. (2026), *Bayesian teaching enables probabilistic
 reasoning in large language models* (Nature Communications 17:1238), on the flight recommendation
 task, and extends it with (a) Gemma 4 31B with thinking off vs on and (b) utility regret
